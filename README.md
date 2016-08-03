@@ -1,2 +1,2 @@
 # numeral
-test pour les comptages
+c'est du test pour l'instant
